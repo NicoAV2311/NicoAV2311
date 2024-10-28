@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @NicoAV2311
 - 👀 I’m interested in Databases and Team Managment
-- 🌱 I’m currently learning NonSQL Databases
+- 🌱 I’m currently learning Artificial Intelligence and basic Robotics
 - 💞️ I’m looking to collaborate on web development or database managment 
 - 📫 How to reach me @ email nicolas.arangove@amigo.edu.co
-- 😄 Pronouns: 
 - ⚡ Fun fact: I like videogames and basketball
 
 <!---
