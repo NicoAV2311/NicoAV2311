@@ -32,7 +32,7 @@ Actualmente me encuentro aprendiendo <b>Inteligencia Artificial</b> y <b>Robóti
 ### 🧠 Tecnologías y herramientas favoritas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,pyqt,arduino,LEGO" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,pyqt,arduino" />
 </p>
 
 ---
@@ -49,13 +49,18 @@ Actualmente me encuentro aprendiendo <b>Inteligencia Artificial</b> y <b>Robóti
 ### 🌍 Cómo contactarme
 
 <p align="center">
-  <a href="mailto:nicolas.arangove@amigo.edu.co">
+  <!-- Botón de Gmail que abre Gmail Web con nuevo correo -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nicoav2311@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/NicoAV2311">
+
+  <!-- GitHub -->
+  <a href="https://github.com/NicoAV2311/NicoAV2311" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/nicolás-arango-vergara-61b826230">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/nicol%C3%A1s-arango-vergara-61b826230/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9jPkYWHKTp%2ByIpy3vSoh1A%3D%3D" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
