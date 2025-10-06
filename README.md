@@ -72,14 +72,6 @@ Actualmente me encuentro aprendiendo <b>Inteligencia Artificial</b> y <b>Robóti
 > 🎮 Me encantan los videojuegos y el baloncesto.  
 > Creo que ambos enseñan trabajo en equipo, estrategia y concentración.
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" />
-</p>
-
----
-
 <!---
 NicoAV2311/NicoAV2311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
