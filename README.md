@@ -1,9 +1,79 @@
-- 👋 Hi, I’m @NicoAV2311
-- 👀 I’m interested in Databases and Team Managment
-- 🌱 I’m currently learning Artificial Intelligence and basic Robotics
-- 💞️ I’m looking to collaborate on web development or database managment 
-- 📫 How to reach me @ email nicolas.arangove@amigo.edu.co
-- ⚡ Fun fact: I like videogames and basketball
+<h1 align="center">👋 ¡Hola! Soy Nicolas Arango Vergara</h1>
+<h3 align="center">💻 Estudiante de Ingeniería en Sistemas | Apasionado por las Bases de Datos y la Inteligencia Artificial</h3>
+
+---
+
+### 🌟 Sobre mí
+
+<p align="justify">
+Soy <b>@NicoAV2311</b>, estudiante de Ingeniería en Sistemas. Me apasiona la gestión de datos, el trabajo en equipo y el desarrollo de software.  
+Actualmente me encuentro aprendiendo <b>Inteligencia Artificial</b> y <b>Robótica básica</b>, combinando la lógica con la creatividad para construir soluciones innovadoras.
+</p>
+
+---
+
+### 🎯 Intereses
+
+- 💾 **Bases de Datos**  
+- 🤝 **Gestión de Equipos de Desarrollo**  
+- 🧠 **Inteligencia Artificial y Aprendizaje Automático**  
+- 🤖 **Robótica Educativa**
+
+---
+
+### 🚀 En qué estoy trabajando
+
+- 🌱 Aprendiendo IA y robótica desde cero  
+- 💞️ Colaborando en proyectos de **desarrollo web** y **gestión de bases de datos**  
+- ⚙️ Experimentando con **Python**, **MySQL**
+
+---
+
+### 🧠 Tecnologías y herramientas favoritas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,git,github,pyqt,arduino,LEGO" />
+</p>
+
+---
+
+### 📊 Mis estadísticas de GitHub
+
+<p align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=NicoAV2311&show_icons=true&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicoAV2311&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### 🌍 Cómo contactarme
+
+<p align="center">
+  <a href="mailto:nicolas.arangove@amigo.edu.co">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/NicoAV2311">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/](https://www.linkedin.com/in/nicolás-arango-vergara-61b826230">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### ⚡ Dato curioso
+
+> 🎮 Me encantan los videojuegos y el baloncesto.  
+> Creo que ambos enseñan trabajo en equipo, estrategia y concentración.
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="220" />
+</p>
+
+---
 
 <!---
 NicoAV2311/NicoAV2311 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
